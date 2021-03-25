@@ -62,7 +62,7 @@
         data() {
             return {
                 form: this.$inertia.form({
-                    email: 'alao@lorma.edu',
+                    email: 'cha@lorma.edu',
                     password: 'password',
                     remember: false
                 })
